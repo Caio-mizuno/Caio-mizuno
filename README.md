@@ -8,7 +8,7 @@
 ## I’m currently learning / Atualmente estou aprendendo...
 ### - <img align="center" alt="caio-Laravel" height="20" width="20" src="https://laravel.com/img/logomark.min.svg"> LARAVEL
 ### - <img align="center" alt="caio-Laravel" height="20" width="20" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> Node.js
-
+### - <img align="center" alt="Rafa-Js" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJEQBlFlKVOBiPQ77MEyKDLD0b6za-pr49A&usqp=CAU"> UIPath (Robotic Process Automation)
 ##
 
 <div align="center">
@@ -20,13 +20,19 @@
   
 <div style="display: inline_block"><br>
   <h2>📌 Personal Stack:</h2>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="caio-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="caio-HTML" height="30" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="caio-CSS" height="30" width="40" 
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="caio-PHP" height="30" width="40"
+       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="caio-Laravel" height="30" width="40" src="https://laravel.com/img/logomark.min.svg">
-  <img align="center" alt="caio-Laravel" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/2048px-Wordpress-Logo.svg.png">
-  
+  <img align="center" alt="caio-Laravel" height="30" width="30" 
+       src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Wordpress-Logo.svg/2048px-Wordpress-Logo.svg.png">
+  <img align="center" alt="Rafa-Js" height="40" width="40" 
+       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJEQBlFlKVOBiPQ77MEyKDLD0b6za-pr49A&usqp=CAU">
 </div>
   
   
