@@ -3,7 +3,7 @@
 
 
 ## 💻 I’m currently working on / Atualmente estou trabalhando com...
-### - LARAVEL ( PHP )
+### - LARAVEL ( PHP ) , Uipath ( C# and VB) and VUE.js
 
 ## I’m currently learning / Atualmente estou aprendendo...
 ### - <img align="center" alt="caio-Laravel" height="20" width="20" src="https://laravel.com/img/logomark.min.svg"> LARAVEL
