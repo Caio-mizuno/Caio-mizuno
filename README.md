@@ -3,9 +3,9 @@
 
 
 ## 💻 I’m currently working on / Atualmente estou trabalhando com...
-### - LARAVEL ( PHP ) , Uipath ( C# and VB) and VUE.js
+### - LARAVEL ( PHP ) | Nest.js | Next.js | VUE.js
 
-## I’m currently learning / Atualmente estou aprendendo...
+## I’m currently a SquadLeader and almost Senior Developer  / Atualmente sou um Squadleader e quase um desenvolvedor Senior 
 ###  <img align="center" alt="caio-Laravel" height="20" width="20" src="https://laravel.com/img/logomark.min.svg"> LARAVEL
 ###  <img align="center" alt="caio-Laravel" height="20" width="20" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> Node.js
 ###  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJEQBlFlKVOBiPQ77MEyKDLD0b6za-pr49A&usqp=CAU"> UIPath (Robotic Process Automation)
