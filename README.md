@@ -6,10 +6,10 @@
 ### - LARAVEL ( PHP ) , Uipath ( C# and VB) and VUE.js
 
 ## I’m currently learning / Atualmente estou aprendendo...
-### - <img align="center" alt="caio-Laravel" height="20" width="20" src="https://laravel.com/img/logomark.min.svg"> LARAVEL
-### - <img align="center" alt="caio-Laravel" height="20" width="20" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> Node.js
-### - <img align="center" alt="Rafa-Js" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJEQBlFlKVOBiPQ77MEyKDLD0b6za-pr49A&usqp=CAU"> UIPath (Robotic Process Automation)
-### - <img align="center" alt="Rafa-Js" height="40" width="40" src="https://i0.wp.com/junilearning.com/wp-content/uploads/2020/06/python-programming-language.webp?fit=1920%2C1920&ssl=1"> Python
+###  <img align="center" alt="caio-Laravel" height="20" width="20" src="https://laravel.com/img/logomark.min.svg"> LARAVEL
+###  <img align="center" alt="caio-Laravel" height="20" width="20" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png"> Node.js
+###  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEJEQBlFlKVOBiPQ77MEyKDLD0b6za-pr49A&usqp=CAU"> UIPath (Robotic Process Automation)
+###  <img align="center" alt="Rafa-Js" height="40" width="40" src="https://ouch-cdn2.icons8.com/bl9xOqdFsrPmb0M5HsMQp-6cGpZgx4VTtIFC2ZrCLh0/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvNjg2/LzdmMWM2NmVmLWM5/MzUtNDZkNy1hMWMz/LTcwYWFmYzA2MzEy/Zi5wbmc.png"> Python
 ##
 
 <div align="center">
